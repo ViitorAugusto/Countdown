@@ -1,19 +1,18 @@
-* {
-    box-sizing: border-box;
-}
+
 h1 {
+    letter-spacing: 10px;
     font-family: 'Poppins';
-    font-weight: normal;
+    font-weight: bold;
     font-size: 4.5em;
     text-align: center;
     color: #6C63FF;
 }
 .countdown-container {
-    border: solid;
+    
     width: 900px;
     display: flex;
     
-    margin: 10px 10px 10px 80px;
+    margin: 10px 10px 10px 200px;
 }
  .countdown-el {
     text-align: center;
@@ -26,6 +25,7 @@ h1 {
     line-height: 1;
     margin: 5rem;
     font-weight: bold;
+    color: #4D4C59;
     
  }
  button {
@@ -39,17 +39,28 @@ h1 {
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    
+        
  }
  section {
-    text-align: center;
+    margin: 10px 10px 10px 400px;
  }
+ 
  p {
     font-family: 'Poppins';
     font-size: 1.5em;
-    color: #4D4C59;
+    color: #9C9AB6;
+
 
  }
  span {
     color: #9C9AB6;
+    
+    
  }
+ 
+.centro {
+    margin: 10px 10px 10px 550px;
+}
+ 
+
+ 
