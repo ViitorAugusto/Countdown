@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+h1 {
+    font-weight: normal;
+    font-size: 4.5em;
+    text-align: center;
+}
+.countdown-container {
+    border: solid;
+    width: 900px;
+    display: flex;
+}
+ .countdown-el {
+    text-align: center;
+ }
+ .countdown-el span {
+    font-size: 2em;
+ }
+ .text {
+    font-size: 2rem;
+    line-height: 1;
+    margin: 5rem;
+    font-weight: bold;
+    
+ }
